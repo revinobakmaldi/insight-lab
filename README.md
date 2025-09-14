@@ -1,11 +1,14 @@
-# Hi, I’m Revino  
-Problem Solver | Data & AI Enthusiast  
+# Hi, I’m Revino
+
+*Problem Solver | Data & AI Enthusiast*
+
+I enjoy turning raw data into actionable insights, building scalable analytics solutions, and exploring the intersection of business and machine learning.
 
 ---
 
 ## Featured Projects
 
-- **Basket Composition Analysis** → Identifying patterns in QSR customer purchase behavior to improve basket size  
+- [**Basket Composition Analysis**](https://github.com/revinobakmaldi/insight-lab/blob/main/QSR%20Menu%20Engineering/Basket%20Composition%20Analysis/README.md) → Identifying patterns in QSR customer purchase behavior to improve basket size  
   *Tech stack: Python, SQL*  
 
 - **Vendor Performance Dashboard** → Monitoring and evaluating vendor performance through interactive dashboards  
@@ -28,16 +31,9 @@ Problem Solver | Data & AI Enthusiast
 ## Currently Exploring
 
 - Building predictive models for **QSR sales forecasting**  
-- Automating analysis of **Outlet and Menu Cannibalization** 
-- Designing and implementing a **Retrieval-Augmented Generation (RAG)** pipeline from scratch   
+- Automating analysis of **Outlet and Menu Cannibalization**
+- Designing and implementing a **Retrieval-Augmented Generation (RAG)** pipeline from scratch
 
 ---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revinobakmaldi/)
-
-
-<!---
-revinobakmaldi/revinobakmaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Chat with me: [LinkedIn](https://www.linkedin.com/in/revinobakmaldi/) | *Always curious, always building.*
